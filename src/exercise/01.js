@@ -1,6 +1,9 @@
 // Code splitting
 // http://localhost:3000/isolated/exercise/01.js
 
+// Utilizaron esto en proyectos? Que tan frecuentemente se tiene en cuenta?
+// Encontraron diferentes al cambiar de lugar el suspense?
+
 import * as React from 'react'
 // import Globe from '../globe'
 
